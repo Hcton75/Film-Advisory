@@ -76,6 +76,13 @@ Average movie should be between 87 minutes and 106 minutes. Within 1hr 30 mins t
 4. For the cost, The company should use a budget of range 5m to 40m. This is to avoid great losses since it's a startup company.
 
 
+# Tableau
+https://public.tableau.com/app/profile/jeremy.koome/viz/GENRESANDRUNTIME/GenresandRuntime
+https://public.tableau.com/app/profile/jeremy.koome/viz/LANGUAGE/LANGUAGE
+https://public.tableau.com/app/profile/jeremy.koome/viz/POPULARITY_17542165461460/POPULARITY
+
+
+
 
 
 
