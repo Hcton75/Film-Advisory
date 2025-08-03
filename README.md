@@ -75,7 +75,6 @@ Average movie should be between 87 minutes and 106 minutes. Within 1hr 30 mins t
 3. For the movie runtime, The company should create movies ranging from 1hr 30mins to 2hrs. This will prevent the risk of having a very poor plot if the movie is short and boring the viewers if it's too long
 4. For the cost, The company should use a budget of range 5m to 40m. This is to avoid great losses since it's a startup company.
 
-
 # Tableau
 https://public.tableau.com/app/profile/jeremy.koome/viz/GENRESANDRUNTIME/GenresandRuntime
 https://public.tableau.com/app/profile/jeremy.koome/viz/LANGUAGE/LANGUAGE
